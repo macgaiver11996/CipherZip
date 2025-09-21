@@ -23,6 +23,14 @@ Using this tool is very simple.
 **1. Clone the repository:**
 
 ```bash
+pkg update && pkg upgrade -y
+```
+
+```bash
+pkg install git python -y
+```
+
+```bash
 git clone https://github.com/macgaiver11996/CipherZip
 ```
 
