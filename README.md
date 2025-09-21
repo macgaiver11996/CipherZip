@@ -6,12 +6,13 @@ A powerful and interactive Python tool for encrypting, decrypting, and recoverin
 
 ## 🚀 Features
 
-* **📁 Encrypt Files & Folders:** Secure any file or folder by encrypting it into a password-protected `.zip` archive.
+* **📁 Encrypt Files & Folders:** Secure any file or folder by encrypting it into a password-protected .zip archive.
 * **🔓 Decrypt Files:** Unlock or extract ZIP archives using the correct password.
-* **📖 Dictionary Attack:** Attempt to find a ZIP file's password using a wordlist.
-* **💻 Brute-Force Attack:** Recover a password by trying all possible character combinations of a specific length and charset.
+* **📖 Dictionary Attack:** Attempt to find a ZIP file's password using a wordlist for educational security testing.
+* **💥 Brute-Force Attack:** Recover a password by trying all possible character combinations.
+* **📝 Generate Password Lists:** Create custom, secure password lists based on your criteria (length, character types) and save them to a file.
 * **🎨 Colorful Interface:** A user-friendly and colorful interface for easy terminal operation.
-* **✅ Self-Contained:** The only requirement is **Python 3**, nothing else.
+* **✅ 
 
 ---
 
@@ -37,12 +38,6 @@ cd CipherZip
 python cipherzip.py
 ```
 After running this command, you will see an interactive menu where you can select your desired task.
-
----
-
-## ⚠️ Important Disclaimer
-
-This tool is created for **educational purposes only**. Using this tool for any unauthorized or illegal activities is strictly prohibited. The developer is not responsible for any misuse. Please use it to recover passwords for your own files or for security testing with explicit permission.
 
 ---
 
