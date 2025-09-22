@@ -43,7 +43,7 @@ cd CipherZip
 **3. Run the tool:**
 
 ```bash
-python cipherzip.py
+python CipherZip.py
 ```
 After running this command, you will see an interactive menu where you can select your desired task.
 
